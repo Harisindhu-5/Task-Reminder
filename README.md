@@ -1,6 +1,6 @@
 # Task IT- Your Personal Productivity Companion
 
-TaskIt is a beautifully designed productivity app that helps you stay focused, build better habits, manage tasks, and track your progress—all in one place. Whether you're a student, professional, or productivity enthusiast, FocusMate provides the tools you need to organize your day and stay on top of your goals.
+TaskIt is a beautifully designed productivity app that helps you stay focused, build better habits, manage tasks, and track your progress—all in one place. Whether you're a student, professional, or productivity enthusiast, TaskIT provides the tools you need to organize your day and stay on top of your goals.
 
 ---
 
