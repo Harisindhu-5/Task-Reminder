@@ -12,7 +12,7 @@ TaskIt is a beautifully designed productivity app that helps you stay focused, b
 
 | Calendar View | Reports | Settings |
 |----------------|---------|-----------|
-| ![Calendar View](img/CalendarView.jpg) | ![Reports](Report.jpg) | ![Settings](img/Settings.jpg) |
+| ![Calendar View](img/CalendarView.jpg) | ![Reports](img/Report.jpg) | ![Settings](img/Settings.jpg) |
 
 ---
 
