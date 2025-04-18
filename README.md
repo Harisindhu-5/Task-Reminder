@@ -8,11 +8,11 @@ TaskIt is a beautifully designed productivity app that helps you stay focused, b
 
 | Task Screen | Focus Mode | Habit Tracker |
 |-------------|-------------|----------------|
-| ![Task Screen](Taskscreen.jpg) | ![Focus Mode](Focus.jpg) | ![Habit Tracker](Habit.jpg) |
+| ![Task Screen](img/Taskscreen.jpg) | ![Focus Mode](img/Focus.jpg) | ![Habit Tracker](img/Habit.jpg) |
 
 | Calendar View | Reports | Settings |
 |----------------|---------|-----------|
-| ![Calendar View](CalendarView.jpg) | ![Reports](Report.jpg) | ![Settings](Settings.jpg) |
+| ![Calendar View](img/CalendarView.jpg) | ![Reports](Report.jpg) | ![Settings](img/Settings.jpg) |
 
 ---
 
